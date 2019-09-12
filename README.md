@@ -1,4 +1,2 @@
 # BRUIR
 university assignments
-
-BSUIR
