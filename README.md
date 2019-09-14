@@ -1,16 +1,16 @@
 ## BSUIR
 university assignments
 
-# AnimationCoursework
+### AnimationCoursework
 + Canvas
 + Createjs
 + Greenock
 
-# ManageWebProjects
+### ManageWebProjects
 Management task...
 (Don't watch !)
 
-# ShopLaravel
+### ShopLaravel
 + apache php 7.2
 + PHP 7.2
 + MySQL 5.7
