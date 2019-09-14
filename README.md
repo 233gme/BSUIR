@@ -1,2 +1,2 @@
-# BRUIR
-university assignments
+# BSUIR
+## university assignments
