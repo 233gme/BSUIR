@@ -10,7 +10,6 @@ university assignments
 
 ### ManageWebProjects
 Management task...
-(Don't watch !)
 
 
 ### ShopLaravel
