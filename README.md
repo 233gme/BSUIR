@@ -9,7 +9,7 @@ university assignments
 
 
 ### ManageWebProjects
-Management task...
+website for online learning
 
 
 ### ShopLaravel
