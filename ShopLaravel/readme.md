@@ -1,6 +1,17 @@
 ## My Site
 
   Project From BSUIR
+  
+## Used technologies
+
+- apache php 7.2
+- PHP 7.2
+- MySQL 5.7
+- Laravel 5.7
+- Bootstrap
+- jQvery
+
+
 
 ## Installation Description
 
@@ -18,13 +29,3 @@
 - Перезапускаем сервер
 - Заходим из "Мои сайты" на MySite
  
- 
-## Used technologies
-
-- apache php 7.2
-- PHP 7.2
-- MySQL 5.7
-- Laravel 5.7
-- Bootstrap
-- jQvery
-
