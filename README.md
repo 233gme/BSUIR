@@ -5,7 +5,7 @@ university assignments
 ### AnimationCoursework
 + Canvas
 + Createjs
-+ Greenock
++ GreenSock
 
 
 ### ManageWebProjects
